@@ -10,7 +10,7 @@ class App < Sinatra::Base
    end
    
    get '/hometown' do
-  "Hello, World!"
+      "My hometown is \_\_"
    end
    
 end
